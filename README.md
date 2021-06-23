@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahil0912.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning cs50.
+- 🌱 I’m currently learning c++ and enrolled in cs50 .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
