@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahil0912.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning python and enrolled in py4e.
+- 🌱 I’m currently learning python and enrolled in py4e and also learning GIT ang GITHUB.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
