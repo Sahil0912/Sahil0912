@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sahil0912.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++ graphics,functional programming.
+- 💞️ I’m looking to collaborate on a Chess engine.
 - 📫 How to reach me at sahiljakhar.09122005@gmail.com
 
 <!---
