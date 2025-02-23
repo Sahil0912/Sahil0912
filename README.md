@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sahil0912.
-- 👀 I’m interested in programming.
+- 👀 I’m interested in game dev, algorithms based project.
 - 🌱 I’m currently learning C++ graphics,functional programming.
-- 💞️ I’m looking to collaborate on a Chess engine.
-- 📫 How to reach me at sahiljakhar.09122005@gmail.com
+- 💞️ I’m currently working on a Chess app (chess engine included) and a rubix cube solver app.
+- 📫 You can reach out to me at sahiljakhar.09122005@gmail.com
 
 <!---
 Sahil0912/Sahil0912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
